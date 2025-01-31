@@ -1,6 +1,6 @@
+## About Students Performance Analysis Project
 
-##About Students Performance Analysis Project
-The Students Performance Analysis project on Kaggle, developed by ozanmhrc, is an insightful exploration of the factors that impact students' academic performance. Using a dataset containing various student attributes, the project aims to uncover patterns and relationships that influence their success in examinations. This analysis is particularly valuable for educators, policymakers, and researchers who seek to enhance educational strategies and improve student outcomes.
+The Students Performance Analysis project,  is an insightful exploration of the factors that impact students' academic performance. Using a dataset containing various student attributes, the project aims to uncover patterns and relationships that influence their success in examinations. This analysis is particularly valuable for educators, policymakers, and researchers who seek to enhance educational strategies and improve student outcomes.
 
 1. Purpose of the Project
 The primary objective of this project is to analyze how different factors such as gender, parental education level, test preparation courses, and lunch programs affect student performance. The dataset used in this study provides scores from three subjects—math, reading, and writing—allowing for a comprehensive evaluation of academic achievement. By identifying key trends, this analysis helps in understanding which factors contribute positively or negatively to student success.
